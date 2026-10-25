@@ -1,4 +1,18 @@
 {
-  "estado": "bloqueado",
+  "Pampero": {
+    "estado": "activo",
+    "telefono": "+58 412-3904003"
+  },
+  "Loly": {
+    "estado": "bloqueado",
+    "telefono": "+58 412-3904003"
+  },
+  "Elaine": {
+    "estado": "activo",
+    "telefono": "+58 412-3904003"
+  }
+  "Greicy": {
+  "estado": "activo",
   "telefono": "+58 412-3904003"
+  }
 }
